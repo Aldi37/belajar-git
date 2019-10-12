@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' type='text/css' media='screen' href="style.css">
+    <script src='main.js'></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="layout_1">
+        <nav>
+            <div class="logo">
+                <img style="width: 3cm; height: 1.5cm" src="Lolo.png">
+            </div>
+            <div class="list">
+                <ul> 
+                    <li>
+                        <a href="#"> Tentang </a>
+                    </li>
+                    <li>
+                        <a href="#"> Blog </a>
+                    </li>
+                    <li>
+                        <a href="#"> Fitur </a>
+                    </li>
+                    <li>
+                        <a href="#"> FaQ</a>
+                    </li>
+                    <li>
+                        <a href="#"> Support & Service</a>
+                    </li>
+                    <li>
+                        <a href="#"> Community </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <section>
+        	<div class="bagian_kiri">
+        		<img style="width: 12cm; height: 12cm"src="Untitled-6.png">
+        	</div>
+        	<div class="bagian_kanan">
+        		<h1> Talk </h1>
+        		<p class="isi"> <p>Memulai hari mu dengan hidup.  Talk mempunyai keunikan fitur</p>
+				<p>yang membuat hidup mu berbeda</p>
+        		<form class="but">
+        		<button type="button" > Mulai </button>
+        		</form>
+        	</div>
+        </section>
+    </header>
+
+    <!--  
+
+    <footer>
+    	<div class="all"> 
+    	<div class="promp">
+    		<p class="a"> Promptheus </p>
+    		<ul>
+    			<li>
+    				<a href="#"> Fitur</a>
+    			</li>
+    			<li>
+    				<a href="#"> Unduh</a>
+    			</li>
+    			<li>
+    				<a href="#"> Keamanan</a>
+    			</li>
+    			<li>
+    				<a href="#"> FaQ</a>
+    			</li>
+    		</ul> 
+    	</div>
+    	<div class="unduh">
+    		<p class="a"> Unduhan </p>
+    		<ul>
+    			<li>
+    				<a href="#"> Mac/Pc</a>
+    			</li>
+    			<li>
+    				<a href="#"> Windows</a>
+    			</li>
+    			<li>
+    				<a href="#"> Linux</a>
+    			</li>
+    			<li>
+    				<a href="#"> Iphone </a>
+    			</li>
+    		</ul> 
+    	</div>
+	</div>
+    </footer> -->
+</body>
+</html>
